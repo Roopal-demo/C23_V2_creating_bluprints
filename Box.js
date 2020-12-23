@@ -9,7 +9,7 @@ class Box{
         
         World.add(world, this.body);
     }
-    dislplay(){
+    display(){
         var pos=this.body.position;
         rectMode(CENTER);
         fill(255);
