@@ -16,6 +16,6 @@ function setup(){
 function draw(){
     background(0);
     Engine.update(engine);
-    box1.dislplay();
+    box1.display();
     
 }
